@@ -7,9 +7,11 @@ If you have already tried all combinations but still stop at 750. It is normal.
 The reason that Reaction index in game are wrong.
 
 - Dump by Bundle Extractor
+
 ![image](img/img1.png)
 
 - After edit
+
 ![image](img/img2.png)
 
 ## How to use
