@@ -14,6 +14,15 @@ The reason that Reaction index in game are wrong.
 
 ![image](img/img2.png)
 
+## Fixed Reaction
+|Item index| Formula |isReversable (0 No/1 Yes) |
+|-|-|-|
+|212| 3ZnS + 8HNO3 = 4H2O + 2NO+ + 3Zn(NO3)2 + 3S   |1|
+|214| 3H2O + 2P = PH3 + H3PO3                       |1|
+|246| H2S + ZnSO4 = H2SO4 + ZnS                     |1|
+|268| H2O + KClO2 = H2 + KClO3                      |1|
+|387| MnO2 + 2FeCl2 + 4HCl = MnCl2 + 2H2O + 2FeCl3  |1|
+
 ## How to use
 
 - download the fixed version of `sharedassets1.assets`
