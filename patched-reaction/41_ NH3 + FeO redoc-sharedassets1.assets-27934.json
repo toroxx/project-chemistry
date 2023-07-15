@@ -1,0 +1,110 @@
+{
+    "0 MonoBehaviour Base": 
+    {
+        "0 PPtr<GameObject> m_GameObject": 
+        {
+            "0 int m_FileID": 0,
+            "0 SInt64 m_PathID": "0"
+        },
+        "1 UInt8 m_Enabled": 1,
+        "0 PPtr<MonoScript> m_Script": 
+        {
+            "0 int m_FileID": 1,
+            "0 SInt64 m_PathID": "839"
+        },
+        "1 string m_Name": "41- NH3 + FeO redoc",
+        "0 int index": 41,
+        "1 string localizedBalancedReactantsKey": "",
+        "1 string localizedBalancedProductsKey": "",
+        "0 vector reactantMolecules":  {
+            "0 Array Array": [
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27483"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27483"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27526"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27526"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27526"
+                }}
+            ]
+        },
+        "0 vector reactantElements":  {
+            "0 Array Array": []
+        },
+        "0 vector productMolecules":  {
+            "0 Array Array": [
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27539"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27512"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27512"
+                }},
+                {"0 PPtr<$MoleculeInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27512"
+                }}
+            ]
+        },
+        "0 vector productElements":  {
+            "0 Array Array": [
+                {"0 PPtr<$ElementInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27301"
+                }},
+                {"0 PPtr<$ElementInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27301"
+                }},
+                {"0 PPtr<$ElementInfo> data": 
+                {
+                    "0 int m_FileID": 0,
+                    "0 SInt64 m_PathID": "27301"
+                }}
+            ]
+        },
+        "0 int tags":  {
+            "0 Array Array": [
+                {"0 int data": 7}
+            ]
+        },
+        "1 UInt8 isRadioactive": 0,
+        "0 int heatState": 0,
+        "1 UInt8 isReversable": 1,
+        "1 UInt8 isRadioactiveWhenReversed": 0,
+        "0 int heatStateWhenReversed": 0,
+        "0 int tagsWhenReversed":  {
+            "0 Array Array": [
+                {"0 int data": 7}
+            ]
+        }
+    }
+}
